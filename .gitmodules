@@ -1,0 +1,3 @@
+[submodule "online_bazar"]
+	path = online_bazar
+	url = https://github.com/Ankita-sharma1234/react.git
